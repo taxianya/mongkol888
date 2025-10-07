@@ -1,0 +1,1304 @@
+
+  <!-- ปุ่มเรียกใช้บริการ -->
+    <a href="https://mongkol2010nk-dev.github.io/mongkol-wedsite/" 
+       style="display: inline-block; margin-top: 25px; padding: 15px 30px; 
+              background: red; color: white; font-size: 1.0em; text-decoration: none; 
+              border-radius: 8px; transition: 0.3s;">
+      จองบริการทันที
+    </a>
+  </div>
+</section>
+<!DOCTYPE html>  โทร: 0636385818
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Taxi on Tour
+     Service
+  รถเช่าพร้อมคนขับ </title>
+  <style>
+    body {
+      font-family: "Arial", sans-serif;
+      background-color: #eaf7ea; /* เขียวอ่อนนุ่มนวล */
+      margin: 0;
+      padding: 0;
+      color: #333;
+      line-height: 1.6;
+    }
+    header {
+      text-align: center;
+      padding: 15px 20px;
+      background: #c5e1c5;
+    }
+    header img {
+      width: 150px;
+      height: 150px;
+      border-radius: 50%;
+      margin-bottom: 15px;
+    }
+    header h1 {
+      font-size: 2.5em;
+      color: #2e7d32;
+    }
+    header h2 {
+      font-size: 1.5em;
+      color: #388e3c;
+      margin: 5px 0;
+    }
+    .btn {
+      display: inline-block;
+      padding: 15px 25px;
+      background: #4caf50;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 8px;
+      margin: 15px 0;
+      font-weight: bold;
+    }
+    .btn:hover {
+      background: #388e3c;
+    }
+    section {
+      padding: 50px 20px;
+      text-align: center;
+    }
+    section h2 {
+      font-size: 2em;
+      color: #2e7d32;
+      margin-bottom: 20px;
+    }
+    section p {
+      max-width: 900px;
+      margin: auto;
+      font-size: 1em;
+      color: #999;
+    }
+    .highlight-red {
+      color: red;
+      font-weight: bold;
+    }
+    .image-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 15px;
+      margin-top: 20px;
+    }
+    .image-grid img {
+      width: 100%;
+      border-radius: 10px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+    .stats {
+      display: flex;
+      justify-content: center;
+      gap: 40px;
+      margin: 30px 0;
+    }
+    .stats div {
+      text-align: center;
+      color: #2e7d32;
+      font-weight: bold;
+    }
+    .review-slider {
+      display: flex;
+      overflow-x: auto;
+      gap: 20px;
+      padding: 20px;
+    }
+    .review-card {
+      min-width: 250px;
+      background: #fff;
+      padding: 20px;
+      border-radius: 12px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+    footer {
+      background: #c5e1c5;
+      padding: 40px 20px;
+      text-align: center;
+    }
+    footer a {
+      color: #2e7d32;
+      text-decoration: none;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <!-- Header -->
+  <header>
+   <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000008020.jpg?w=350" alt="โปรไฟล์"> 
+<!-- เว้นช่องว่างสำหรับรูปโปรไฟล์ -->
+<h5 style="color: red; border: 0px solid lightgreen; display: inline-block; padding: 2px; border-radius: 2px;">
+  Taxi on Tour Servicr
+</h5>
+  <div class="image-grid">
+    <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000008018.jpg?w=500" alt="car
+        1">
+<p3 style="color: black; font-size: 18px; font-family: 'Arial', sans-serif; line-height: 1.6; text-align: justify;">
+  บริการเช่าเหมารถทุกประเภท ทั้ง รถเก๋ง, รถ SUV, รถตู้ VIP พร้อมคนขับมืออาชีพ ที่มีประสบการณ์มากกว่า 10 ปี
+  ชำนาญทุกเส้นทางทั่วไทย ไม่ว่าจะเป็นเที่ยว, ทำงาน, รับ-ส่งสนามบิน,
+  หรือเดินทางไปต่างจังหวัด
+  เรามีรถที่สะอาด ปลอดภัย ตรงเวลา พร้อมสร้างความประทับใจในทุกการเดินทาง
+  ชำนาญทุกเส้นทาง รถสวย สะอาด ปลอดภัย ตรงเวลาทุกทริป
+</p3>        
+
+    <a href="https://mongkol2010nk-dev.github.io/mongkol-wedsite/" class="btn"> จองบริการทันที </a>
+  </header>
+
+  <!-- Welcome -->
+  <section>
+    <h3>บริการเช่ารถพร้อมคนขับ</h3>
+    <p>ยินดีต้อนรับสู่บริการเช่ารถพร้อมคนขับที่ครบวงจรในประเทศไทย! เราพร้อมให้บริการคุณด้วยรถที่สวยงาม 
+    สะอาด และทันสมัย พร้อมคนขับมืออาชีพ...<br>
+    เริ่มต้นเพียง 1,800 บาท/วัน เท่านั้น</p>
+    <p class="highlight-red">เช่ารายวัน ไม่รวมค่าน้ำมัน ไม่รวมค่าทางด่วน ไม่รวมค่าที่พักคนขับ</p>
+
+    <!-- ช่องว่างสำหรับใส่ภาพหลายภาพ -->
+    <div class="image-grid">
+      <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000008018.jpg?w=1024" alt="car
+        1">
+        <p1> บริการเช่ารถพร้อมคนขับทั่วไทยบริการพร้อมทีมงานด้วยใจ </p1>
+      <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007944.png?w=1024" alt="Car 2">
+      <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000008020.jpg?w=1024" alt="Car 3">
+      <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007132.jpg?w=1024" alt="Car 4">
+      <img src="car5.jpg" alt="Car 5">
+      <img src="car6.jpg" alt="Car 6">
+      <img src="car7.jpg" alt="Car 7">
+      <img src="car7.jpg" alt="Car 7">
+      <img src="car7.jpg" alt="Car 7">
+      <img src="car7.jpg" alt="Car 7">
+      <img src="car7.jpg" alt="Car 7">
+      <img src="car7.jpg" alt="Car 7">
+      <img src="car7.jpg" alt="Car 7">
+      <img src="car7.jpg" alt="Car 7">
+      <img src="car7.jpg" alt="Car 7">
+    </div>
+  </section>
+
+<!-- Stats -->
+<section>
+  <!-- โลโก้ลอยมีเงาสีเขียว -->
+  <div style="text-align: center;margin: -bottom:30px;">
+    <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000008020.jpg?w=1024" alt="โลโก้"
+         style="width:120px; height:120px; 
+                border-radius:50%; 
+                box-shadow: 0 0 30px rgba(0, 255, 0, 0.7);
+                filter: drop-shadow(0 0 15px rgba(0, 200, 0, 0.9));
+                animation: float 3s ease-in-out infinite;">
+  </div>
+
+  <div class="stats">
+    <div class="stat-box">
+      <h3 class="counter" data-target="15">0</h3>
+      <p>ปีประสบการณ์</p>
+    </div>
+    <div class="stat-box">
+      <h3 class="counter" data-target="16851">0</h3>
+      <p>บริการลูกค้า</p>
+    </div>
+    <div class="stat-box">
+      <h3 class="counter" data-target="20865">0</h3>
+      <p>ทริปนำเที่ยว</p>
+    </div>
+  </div>
+</section>
+
+<!-- CSS -->
+<style>
+.stats {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.stat-box {
+  flex: 1;
+  min-width: 200px;
+  border: 3px solid #4CAF50; /* กรอบสีเขียว */
+  border-radius: 12px;
+  padding: 20px;
+  background: #fff;
+  box-shadow: 0 0 20px rgba(76, 175, 80, 0.4);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.stat-box h3 {
+  color: #4CAF50;
+  font-size: 2rem;
+  margin: 0;
+}
+
+.stat-box p {
+  margin: 10px 0 0;
+  font-size: 1.1rem;
+  color: #333;
+}
+
+.stat-box:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 0 30px rgba(76, 175, 80, 0.7);
+}
+
+/* โลโก้ลอยขึ้นลง */
+@keyframes float {
+  0%   { transform: translateY(0); }
+  50%  { transform: translateY(-15px); }
+  100% { transform: translateY(0); }
+}
+</style>
+
+<!-- JavaScript ตัวเลขวิ่ง -->
+<script>
+function animateCounter(counter) {
+  const target = +counter.getAttribute("data-target");
+  const duration = 2000; // เวลา 2 วิ
+  const increment = target / (duration / 16); // แบ่งตามเฟรม
+
+  let current = 0;
+
+  function update() {
+    current += increment;
+    if (current < target) {
+      counter.innerText = Math.floor(current);
+      requestAnimationFrame(update);
+    } else {
+      counter.innerText = target.toLocaleString(); // แสดงตัวเลขพร้อม ,
+      if (target >= 1000) counter.innerText += "+"; // ถ้าเป็นหมื่นแสดง "+"
+      else counter.innerText += "+";
+    }
+  }
+
+  update();
+}
+
+// สังเกตเมื่อ scroll มองเห็นค่อยเริ่มทำงาน
+const counters = document.querySelectorAll(".counter");
+const options = { threshold: 0.6 };
+const observer = new IntersectionObserver((entries, obs) => {
+  entries.forEach(entry => {
+    if (entry.isIntersecting) {
+      animateCounter(entry.target);
+      obs.unobserve(entry.target); // ทำครั้งเดียว
+    }
+  });
+}, options);
+
+counters.forEach(counter => observer.observe(counter));
+</script>
+
+   1234
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>รีวิวลูกค้า</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f4f4;
+      margin: 0;
+      padding: 0;
+    }
+
+    section {
+      padding: 50px 20px;
+      text-align: center;
+      background: #fff;
+    }
+
+    h2 {
+      color: #d32f2f;
+      margin-bottom: 30px;
+    }
+
+    /* slider container */
+    .review-slider {
+      position: relative;
+      overflow: hidden;
+      max-width: 950px;
+      margin: auto;
+    }
+
+    /* slide track */
+    .slides {
+      display: flex;
+      transition: transform 0.7s ease-in-out;
+    }
+
+    /* review card */
+    .review-card {
+      min-width: 300px;
+      margin: 0 10px;
+      background: #fff;
+      border-radius: 16px;
+      box-shadow: 0 6px 14px rgba(0,0,0,0.15);
+      overflow: hidden;
+      transition: transform 0.4s, box-shadow 0.4s;
+      cursor: pointer;
+    }
+
+    .review-card:hover {
+      transform: translateY(-10px) scale(1.03);
+      box-shadow: 0 10px 20px rgba(0,0,0,0.25);
+    }
+
+    .review-image {
+      width: 100%;
+      height: 180px;
+      object-fit: cover;
+    }
+
+    .review-content {
+      padding: 20px;
+    }
+
+    .review-content p {
+      font-style: italic;
+      font-size: 15px;
+      margin-bottom: 10px;
+    }
+
+    .review-content h4 {
+      margin: 0;
+      color: #333;
+    }
+
+    /* arrows */
+    .arrow {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      background: rgba(0,0,0,0.5);
+      color: #fff;
+      border: none;
+      font-size: 24px;
+      padding: 10px 15px;
+      cursor: pointer;
+      border-radius: 50%;
+      transition: background 0.3s;
+    }
+
+    .arrow:hover {
+      background: rgba(0,0,0,0.8);
+    }
+
+    .arrow.left {
+      left: 10px;
+    }
+
+    .arrow.right {
+      right: 10px;
+    }
+  </style>
+</head>
+<body>
+  
+  <section>
+    <h2>รีวิวจากลูกค้า</h2>
+    <div class="review-slider">
+      <div class="slides">
+        
+        <!-- Review 1 -->
+        <div class="review-card">
+          <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007802.jpg?w=300" alt="รีวิว1" class="review-image">
+          <div class="review-content">
+            <p> ลูกค้าชาวญี่ปุ่นเดินทางด้วยรถตู้ VIP บอกว่านั่งสะดวกสบาย และคนขับบริการเยี่ยม </p>
+            <h4>– คุณ เคน</h4>
+          </div>
+        </div>
+        
+        <!-- Review 2 -->
+        <div class="review-card">
+          <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000006559.jpg?w=350" alt="รีวิว2" class="review-image">
+          <div class="review-content">
+            <p>"บริการเยี่ยม ตรงเวลา และปลอดภัย"</p>
+            <h4>– คุณโมฮาเหม็ด</h4>
+          </div>
+        </div>
+
+        <!-- Review 3 -->
+        <div class="review-card">
+          <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007804.jpg?w=350" alt="รีวิว3" class="review-image">
+          <div class="review-content">
+            <p>"รถใหม่สะอาด ประทับใจมากครับ"</p>
+            <h4>– สมชาย</h4>
+          </div>
+        </div>
+
+        <!-- Review 4 -->
+        <div class="review-card">
+          <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000006596.jpg?w=350" alt="รีวิว4" class="review-image">
+          <div class="review-content">
+            <p>"เดินทางสะดวกสบายทั่วไทย"</p>
+            <h4>– วิไล</h4>
+          </div>
+        </div>
+
+        <!-- Review 5 -->
+        <div class="review-card">
+          <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007045.jpg?w=350" alt="รีวิว5" class="review-image">
+          <div class="review-content">
+            <p>"ในรถแอร์เย็น สะอาดมากค่ะ"</p>
+            <h4>– จันทร์เพ็ญ</h4>
+          </div>
+        </div>
+
+        <!-- Review 6 -->
+        <div class="review-card">
+          <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000006583.jpg?w=250" alt="รีวิว6" class="review-image">
+          <div class="review-content">
+            <p>"ที่นั่งกว้าง นั่งสบายตลอดทาง"</p>
+            <h4>– คุณขวัญใจ </h4>
+          </div>
+        </div>
+
+        <!-- Review 7 -->
+        <div class="review-card">
+          <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000008164.jpg?w=350" alt="รีวิว7" class="review-image">
+          <div class="review-content">
+            <p>"รถ VIP สมราคา บริการสุภาพ"</p>
+            <h4>– มาลี</h4>
+          </div>
+        </div>
+
+        <!-- Review 8 -->
+        <div class="review-card">
+          <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000006546.jpg?w=300" alt="รีวิว8" class="review-image">
+          <div class="review-content">
+            <p>"ทริปครอบครัวสนุกมาก ประทับใจ"</p>
+            <h4>– ฮาเมท</h4>
+          </div>
+        </div>
+
+        <!-- Review 9 -->
+        <div class="review-card">
+          <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000006578.jpg?w=350" alt="รีวิว9" class="review-image">
+          <div class="review-content">
+            <p>"คนขับใจดี บริการเป็นกันเอง"</p>
+            <h4>– โจอี้</h4>
+          </div>
+        </div>
+
+        <!-- Review 10 -->
+        <div class="review-card">
+          <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000006576.jpg?w=350" alt="รีวิว10" class="review-image">
+          <div class="review-content">
+            <p>"ครั้งหน้าใช้บริการอีกแน่นอน"</p>
+            <h4>– กิตติ</h4>
+          </div>
+        </div>
+
+      </div>
+
+      <!-- arrows -->
+      <button class="arrow left">&#10094;</button>
+      <button class="arrow right">&#10095;</button>
+    </div>
+  </section>
+
+  <script>
+    const slides = document.querySelector('.slides');
+    const slideCount = document.querySelectorAll('.review-card').length;
+    const cardWidth = 320; // ความกว้างของการ์ด+margin
+    let index = 0;
+
+    function showSlide(i) {
+      if (i < 0) index = slideCount - 1;
+      else if (i >= slideCount) index = 0;
+      else index = i;
+      slides.style.transform = `translateX(${-index * cardWidth}px)`;
+    }
+
+    // auto slide
+    setInterval(() => {
+      showSlide(index + 1);
+    }, 4000);
+
+    // manual arrows
+    document.querySelector('.arrow.left').addEventListener('click', () => {
+      showSlide(index - 1);
+    });
+
+    document.querySelector('.arrow.right').addEventListener('click', () => {
+      showSlide(index + 1);
+    });
+  </script>
+  <!-- Welcome -->
+  <section>
+    <h3>บริการเช่ารถพร้อมคนขับ</h3>
+    <p>ยินดีต้อนรับสู่บริการเช่ารถพร้อมคนขับที่ครบวงจรในประเทศไทย! เราพร้อมให้บริการคุณด้วยรถที่สวยงาม 
+    สะอาด และทันสมัย พร้อมคนขับมืออาชีพ...<br>
+    เริ่มต้นเพียง 1,800 บาท/วัน เท่านั้น</p>
+    <p class="highlight-red">เช่ารายวัน ไม่รวมค่าน้ำมัน ไม่รวมค่าทางด่วน ไม่รวมค่าที่พักคนขับ</p>
+
+    <!-- ช่องว่างสำหรับใส่ภาพหลายภาพ -->
+    <div class="image-grid">
+      <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000008018.jpg?w=350" alt="car
+        1">
+        <p1> บริการเช่ารถพร้อมคนขับทั่วไทยบริการพร้อมทีมงานด้วยใจ </p1>
+      <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007944.png?w=350" alt="Car 2">
+      <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000008020.jpg?w=350" alt="Car 3">
+
+      <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007132.jpg?w=350" alt="Car 4">
+      <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007132.jpg?w=350" alt="Car 4">
+      <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007132.jpg?w=350" alt="Car 4">
+      <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007132.jpg?w=350" alt="Car 4">
+      <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007132.jpg?w=350" alt="Car 4">
+      <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007132.jpg?w=350" alt="Car 4">
+      <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007132.jpg?w=350" alt="Car 4">
+      <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007132.jpg?w=350" alt="Car 4">
+      <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007132.jpg?w=350" alt="Car 4">
+      <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007132.jpg?w=350" alt="Car 4">
+      <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007132.jpg?w=350" alt="Car 4">
+      <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007132.jpg?w=350" alt="Car 4"><img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007132.jpg?w=350" alt="Car 4">
+      <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007132.jpg?w=350" alt="Car 4">
+      <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007132.jpg?w=350" alt="Car 4">
+      <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007132.jpg?w=350" alt="Car 4">
+      <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007132.jpg?w=350" alt="Car 4">
+      <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007132.jpg?w=350" alt="Car 4">
+      <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007132.jpg?w=350" alt="Car 4">
+      <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007132.jpg?w=350" alt="Car 4">
+      <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007132.jpg?w=350" alt="Car 4">
+      <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007132.jpg?w=350" alt="Car 4">
+      <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007132.jpg?w=350" alt="Car 4">
+      <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007132.jpg?w=350" alt="Car 4">
+      <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007132.jpg?w=350" alt="Car 4">
+      <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007132.jpg?w=350" alt="Car 4">
+      <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007132.jpg?w=350" alt="Car 4">
+      <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007132.jpg?w=350" alt="Car 4">
+      <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007132.jpg?w=350" alt="Car 4">
+      <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007132.jpg?w=350" alt="Car 4">
+      <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007132.jpg?w=350" alt="Car 4">
+      <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007132.jpg?w=350" alt="Car 4">
+      <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007132.jpg?w=350" alt="Car 4">
+      <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007132.jpg?w=350" alt="Car 4">
+      <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007132.jpg?w=350" alt="Car 4">
+      <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007132.jpg?w=350" alt="Car 4">
+      <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007132.jpg?w=350" alt="Car 4">
+      <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007132.jpg?w=350" alt="Car 4">
+      <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007132.jpg?w=350" alt="Car 4">
+      <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007132.jpg?w=350" alt="Car 4">
+      <img src="https://mongkol20010.wordpress.com/wp-content/uploads/2025/08/1000007132.jpg?w=350" alt="Car 4">
+      <img src="car7.jpg" alt="Car 7">
+    </div>
+  </section>
+
+<!DOCTYPE html>675
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>แกลลอรี่รถเช่า</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #fff;
+      color: #333;
+    }
+    h1 {
+      text-align: center;
+      background: rgba(0, 100, 0, 0.7);
+      color: #fff;
+      padding: 30px 15px;
+      margin: 0 0 20px;
+      font-size: 28px;
+    }
+    .filter-buttons {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    .filter-buttons button {
+      margin: 5px;
+      padding: 10px 18px;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+      background: #eee;
+      font-size: 16px;
+    }
+    .filter-buttons button.active {
+      background: #2a602a;
+      color: #fff;
+    }
+    .gallery {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+      gap: 10px;
+      padding: 0 15px 30px;
+    }
+    .gallery img {
+      width: 100%;
+      height: 140px;
+      object-fit: cover;
+      border-radius: 6px;
+      cursor: pointer;
+      transition: transform 0.3s;
+    }
+    .gallery img:hover {
+      transform: scale(1.05);
+    }
+    /* Popup แสดงภาพเต็ม */
+    .popup {
+      display: none;
+      position: fixed;
+      z-index: 999;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0,0,0,0.8);
+      justify-content: center;
+      align-items: center;
+    }
+    .popup img {
+      max-width: 90%;
+      max-height: 80%;
+      border-radius: 10px;
+    }
+    .popup span {
+      position: absolute;
+      top: 20px;
+      right: 30px;
+      font-size: 40px;
+      color: #fff;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+
+  <h2>แกลลอรี่</h2>
+
+  <!-- ปุ่มเลือกหมวด -->
+  <div class="filter-buttons">
+    <button class="active" onclick="filterSelection('all')">ทั้งหมด</button>
+    <button onclick="filterSelection('outside')">รถของเรา (ภายนอก)</button>
+    <button onclick="filterSelection('inside')">รถของเรา (ภายใน)</button>
+    <button onclick="filterSelection('customer')">ลูกค้าของเรา</button>
+  </div>
+
+  <!-- แกลลอรี่ -->
+  <div class="gallery" id="gallery">
+    <!-- รถภายนอก -->
+    <img src="https://picsum.photos/id/1011/400/300" class="filter outside">
+    <img src="https://picsum.photos/id/1015/400/300" class="filter outside">
+    <img src="https://picsum.photos/id/1016/400/300" class="filter outside">
+
+    <!-- รถภายใน -->
+    <img src="https://picsum.photos/id/1025/400/300" class="filter inside">
+    <img src="https://picsum.photos/id/1031/400/300" class="filter inside">
+    <img src="https://picsum.photos/id/1035/400/300" class="filter inside">
+
+    <!-- ลูกค้า -->
+    <img src="https://picsum.photos/id/1041/400/300" class="filter customer">
+    <img src="https://picsum.photos/id/1050/400/300" class="filter customer">
+    <img src="https://picsum.photos/id/1062/400/300" class="filter customer">
+  </div>
+
+  <!-- Popup แสดงภาพเต็ม -->
+  <div class="popup" id="popup">
+    <span onclick="closePopup()">&times;</span>
+    <img id="popupImg">
+  </div>
+
+  <script>
+    // ฟังก์ชันกรองหมวด
+    function filterSelection(category) {
+      let items = document.getElementsByClassName("filter");
+      let buttons = document.querySelectorAll(".filter-buttons button");
+      
+      // ลบ active ปุ่มเก่า
+      buttons.forEach(btn => btn.classList.remove("active"));
+      
+      // ใส่ active ปุ่มใหม่
+      event.target.classList.add("active");
+
+      for (let i = 0; i < items.length; i++) {
+        if (category === "all") {
+          items[i].style.display = "block";
+        } else {
+          if (items[i].classList.contains(category)) {
+            items[i].style.display = "block";
+          } else {
+            items[i].style.display = "none";
+          }
+        }
+      }
+    }
+
+    // ฟังก์ชัน popup แสดงรูปใหญ่
+    let popup = document.getElementById("popup");
+    let popupImg = document.getElementById("popupImg");
+    let galleryImgs = document.querySelectorAll(".gallery img");
+
+    galleryImgs.forEach(img => {
+      img.addEventListener("click", function() {
+        popup.style.display = "flex";
+        popupImg.src = this.src;
+      });
+    });
+
+    function closePopup() {
+      popup.style.display = "none";
+    }
+  </script>
+
+</body>
+</html>
+
+<!DOCTYPE html>567
+<html lang="th">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TAXI ON TOUR</title>
+<style>
+    body {
+        margin: 0;
+        font-family: Arial, sans-serif;
+    }
+    /* ปุ่ม 3 ขีด */
+    .menu-toggle {
+        background: #2d8a3d;
+        border: none;
+        padding: 12px;
+        cursor: pointer;
+        position: fixed;
+        top: 15px;
+        right: 15px;
+        z-index: 1000;
+        border-radius: 5px;
+    }
+    .menu-toggle div {
+        width: 25px;
+        height: 3px;
+        background: white;
+        margin: 5px 0;
+    }
+
+    /* พื้นหลัง PopUp */
+    .menu {
+        position: fixed;
+        top: 0;
+        right: -100%;
+        width: 100%;
+        height: 100%;
+        background: #f0fff4;
+        color: black;
+        transition: 0.4s;
+        z-index: 999;
+        text-align: center;
+        padding-top: 80px;
+    }
+    .menu.active {
+        right: 0;
+    }
+
+    /* ปุ่มปิด */
+    .menu .close-btn {
+        position: absolute;
+        top: 20px;
+        right: 20px;
+        background: #2d8a3d;
+        color: white;
+        border: none;
+        font-size: 20px;
+        padding: 5px 12px;
+        cursor: pointer;
+        border-radius: 5px;
+    }
+
+    /* ลิสต์เมนู */
+    .menu ul {
+        list-style: none;
+        padding: 0;
+    }
+    .menu ul li {
+        margin: 25px 0;
+    }
+    .menu ul li a {
+        text-decoration: none;
+        font-size: 22px;
+        font-weight: bold;
+        color: #000;
+    }
+    .menu ul li:first-child a {
+        display: inline-block;
+        background: #2d8a3d;
+        color: white;
+        padding: 12px 150px;
+        border-radius: 5px;
+    }
+    .menu u2 li:first-child a {
+        display: inline-block;
+        background: #2d8a3d;
+        color: white;
+        padding: 12px 150px;
+       border-radius: 5px;
+    }
+    .menu u2 li:first-child a {
+      display: inline-block;
+      background: #2d8a3d;
+      color: white;
+      padding: 12px 150px;
+      border-radius: 5px;
+    }
+    .menu u2 li:first-child a {
+      display: inline-block;
+      background: #2d8a3d;
+      color: white;
+      padding: 12px 150px;
+      border-radius: 5px;
+    }    
+</style>
+</head>
+<body>
+
+<!-- ปุ่ม 3 ขีด -->
+<button class="menu-toggle" onclick="toggleMenu()">
+    <div></div>
+    <div></div>
+    <div></div>
+</button>
+
+<!-- เมนู PopUp -->
+<div class="menu" id="menu">
+    <button class="close-btn" onclick="toggleMenu()">x</button>
+    <ul>
+        <li><a href="https://mongkol2010nk-dev.github.io/mongkol-wedsite/">หน้าแรก-1</a></li>
+    <ul>
+        <li><a href="https://mongkol2010.simdif.com">จองรถ---2</a></li>
+    <ul>
+        <li><a href="">แกลลอรี่-11</a></li>
+    <ul>
+        <li><a href="https://taxianya.github.io/eak12312/">บทความ-อ</a></li>
+    <ul>
+        <li><a href="https://taxianya.github.io/Sangphet/">ติดต่อเรา-ส</a></li>
+        
+    </ul>
+</div>
+
+<script>
+    function toggleMenu() {
+        document.getElementById("menu").classList.toggle("active");
+    }
+</script>
+
+</body>
+</html>
+<!DOCTYPE html>480
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>บทความรถเช่า</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #fff;
+      color: #333;
+    }
+    .container {
+      width: 95%;
+      max-width: 1200px;
+      margin: auto;
+      padding: 20px;
+    }
+    h1 {
+      text-align: center;
+      margin-bottom: 20px;
+      background: #3b653d;
+      color: #fff;
+      padding: 15px;
+      border-radius: 10px;
+    }
+    .articles {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 20px;
+    }
+    .article {
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      overflow: hidden;
+      background: #fafafa;
+      transition: 0.3s;
+    }
+    .article:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    }
+    .article img {
+      width: 100%;
+      height: 200px;
+      object-fit: cover;
+    }
+    .article-content {
+      padding: 15px;
+    }
+    .article-content h2 {
+      font-size: 18px;
+      margin: 0 0 10px;
+      color: #004d00;
+    }
+    .article-content p {
+      font-size: 14px;
+      color: #555;
+      line-height: 1.5;
+    }
+    .load-more {
+      display: block;
+      width: 200px;
+      margin: 30px auto;
+      padding: 12px;
+      text-align: center;
+      background: #3b653d;
+      color: #fff;
+      font-size: 16px;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+      transition: 0.3s;
+    }
+    .load-more:hover {
+      background: #2a462c;
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <h2>บทความ</h2>
+
+  <div class="articles" id="articles">
+    <!-- บทความจะแสดงที่นี่ -->
+  </div>
+
+  <button class="load-more" id="loadMore">โหลดเพิ่มเติม</button>
+</div>
+
+<script>
+  // ตัวอย่างข้อมูลบทความ (คุณสามารถดึงจาก Database หรือ API ก็ได้)
+  const posts = [
+    {
+      title: "เที่ยวบินล่าช้าไม่ต้องกังวล! บริการเหมารถเกงหลู,รถSUV,รถตู้รับส่งสนามบินตลอด 24 ชั่วโมง",
+      img: "https://picsum.photos/id/1011/600/400",
+      text: "บริการรถรับส่งสนามบิน การเดินทางโดยเครื่องบินมักเป็นตัวเลือกยอดนิยม..."
+    },
+    {
+      title: "รวมสถานที่ยอดฮิตในกรุงเทพฯ ที่เหมาะกับการเดินทางด้วยเช่ารถเกงหลู,รถSUV,รถตู้",
+      img: "https://picsum.photos/id/1015/600/400",
+      text: "การท่องเที่ยวในกรุงเทพฯ มีสถานที่ยอดฮิตมากมายที่นักท่องเที่ยวไม่ควรพลาด..."
+    },
+    {
+      title: "ธุรกิจราบรื่น บริการรถเกงหลู,รถSUV,รถตู้ให้เช่าพร้อมคนขับสำหรับงานธุรกิจ",
+      img: "https://picsum.photos/id/1016/600/400",
+      text: "การเดินทางเพื่อธุรกิจจำเป็นต้องมีความสะดวก รวดเร็ว และน่าเชื่อถือ..."
+    },
+    {
+      title: "เหมารถเกงหลู,รถSUV,รถตู้ จองล่วงหน้า มั่นใจไร้กังวล",
+      img: "https://picsum.photos/id/1021/600/400",
+      text: "การจองล่วงหน้าช่วยให้คุณมั่นใจว่ามีรถแน่นอน และไม่ต้องกังวลเรื่องความพร้อม..."
+    },
+    {
+      title: "เช่ารถ Hyundai ตัวเลือกใหม่สำหรับการเช่ารถเกงหลู,รถSUV,รถตู้ เที่ยวไหนก็สนุก",
+      img: "https://picsum.photos/id/1032/600/400",
+      text: "รถ Hyundai กำลังได้รับความนิยมในปัจจุบัน เนื่องจากการออกแบบที่ทันสมัย..."
+    },
+    {
+      title: "ทริปครอบครัวสบายใจด้วยรถเกงหลู,รถSUV,รถตู้ VIP",
+      img: "https://picsum.photos/id/1041/600/400",
+      text: "เรามีรถเกงหลู,รถSUV,รถตู้ VIP, เหมาะสำหรับการเดินทางเป็นครอบครัว ให้ความสะดวกสบายและปลอดภัย..."
+    }
+  ];
+  let currentIndex = 0;
+  const articlesContainer = document.getElementById("articles");
+  const loadMoreBtn = document.getElementById("loadMore");
+
+  function loadPosts(count = 2) {
+    for (let i = 0; i < count; i++) {
+      if (currentIndex >= posts.length) {
+        loadMoreBtn.style.display = "none"; // ซ่อนปุ่มถ้าโหลดครบแล้ว
+        return;
+      }
+      const post = posts[currentIndex];
+      const article = document.createElement("div");
+      article.className = "article";
+      article.innerHTML = `
+        <img src="${post.img}" alt="${post.title}">
+        <div class="article-content">
+          <h2>${post.title}</h2>
+          <p>${post.text}</p>
+        </div>
+      `;
+      articlesContainer.appendChild(article);
+      currentIndex++;
+    }
+  }
+
+  // โหลดเริ่มต้น
+  loadPosts();
+
+  // เมื่อกดปุ่ม "โหลดเพิ่มเติม"
+  loadMoreBtn.addEventListener("click", () => {
+    loadPosts();
+  });
+</script>
+
+</body>
+</html>
+
+   <1005></1005>
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>การจองรถ</title>
+  <style>
+    body {
+      font-family: "Sarabun", sans-serif;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+      color: #1b5e20;
+    }
+    header {
+        background: url("header.jpg") no-repeat center center/cover;
+        text-align: center;
+        padding: 80px 20px;
+        color: white;
+        font-size: 2.5rem;
+        font-weight: bold;
+        background-color: rgba(0,0,0,0.4); /* เงาพื้นหลังให้ตัวอักษรอ่านง่าย */
+    }
+    h2 {
+      font-size: 1.8rem;
+      color: #1b5e20;
+      margin: 20px 0 10px;
+      text-align: center;
+    }
+    h3 {
+      font-size: 1.4rem;
+      color: #2e7d32;
+      margin: 15px 0 10px;
+    }
+    p {
+      font-size: 1rem;
+      margin: 10px 0;
+      text-align: justify;
+    }
+    .highlight-red {
+      color: red;
+      font-weight: bold;
+    }
+    .section {
+      padding: 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    .features {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 20px;
+      margin-top: 20px;
+    }
+    .feature-box {
+      background: #e8f5e9;
+      padding: 20px;
+      text-align: center;
+      border-radius: 10px;
+    }
+    .feature-box h4 {
+      font-size: 1.2rem;
+      color: #1b5e20;
+      margin: 10px 0;
+    }
+    .steps {
+      padding: 20px;
+    }
+    .step {
+      margin: 15px 0;
+      font-size: 1rem;
+    }
+    .step strong {
+      color: #2e7d32;
+      font-size: 1.2rem;
+    }
+    .conditions {
+      background: #f1f8e9;
+      margin: 20px 0;
+      padding: 20px;
+      border-radius: 10px;
+    }
+    .conditions h3 {
+      text-align: center;
+    }
+    .condition-item {
+      margin-bottom: 15px;
+      font-size: 1rem;
+    }
+    .condition-item span {
+      display: inline-block;
+      font-weight: bold;
+      color: #1b5e20;
+      margin-bottom: 5px;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- หัวข้อใหญ่ -->
+  <header>
+    การจองรถ
+  </header>
+
+  <!-- บทความ -->
+  <section class="section">
+    <h3>รถเกงหลู,รถSUV,รถตู้พร้อมคนขับ ครบวงจร</h3>
+    <p>
+      รถเกงหลู,รถSUV,รถตู้พร้อมคนขับ ครบวงจร ทางเรามีรถตู้ให้เลือกหลายรุ่น ไม่ว่าจะเป็น Toyota Commuter, Hyundai H1 
+      หรือรถเกงหลู,รถSUV,รถตู้สุดหรูอย่าง Toyota Alphard เราก็มีให้บริการ ไม่ว่าจะเดินทางไปที่ไหน ใกล้หรือไกล 
+      ทางเรายินดีให้บริการทุกสถานที่ เริ่มต้นเพียง 1,800 บาท/วัน เท่านั้น 
+      บริการรับ-ส่ง สนามบิน รับส่งที่พัก โรงแรม รีสอร์ท ที่อยู่อาศัย และมีบริการนำเที่ยวอีกด้วย 
+      หากสนใจใช้บริการรถตู้กับเรา สามารถติดต่อเราเข้ามาได้เลย ทางเราพร้อมและยินดีให้บริการ
+    </p>
+    <p class="highlight-red">
+      เช่ารายวัน ไม่รวมค่าน้ำมัน, ไม่รวมค่าทางด่วน, ไม่รวมค่าที่พักคนขับ
+    </p>
+  </section>
+
+  <!-- ทำไมต้องเลือกเรา -->
+  <section class="section">
+    <h3>ทำไมต้องเลือกเรา</h3>
+    <p>
+      เกง-Suv- Van  เรามีรถให้เลือกหลายรุ่น เพื่อรองรับความต้องการที่หลากหลายของลูกค้า 
+      ในราคาที่สมเหตุสมผล คุ้มค่า เริ่มต้นเพียง 1,800 บาท/วัน เท่านั้น มาพร้อมคนขับที่มีประสบการณ์สูง 
+      ชำนาญทุกเส้นทาง ขับถึงที่หมายตรงต่อเวลา และเน้นความปลอดภัยของลูกค้าเป็นหลัก
+    </p>
+
+    <div class="features">
+      <div class="feature-box">
+        <h4>มีรถให้เลือกหลายรุ่น</h4>
+        <p>เรามีรถเกง,SUV,ตู้VIP,ให้เลือกหลายรุ่น รองรับการเดินทางที่หลากหลายของลูกค้า</p>
+      </div>
+      <div class="feature-box">
+        <h4>คุ้มค่า ราคาถูก</h4>
+        <p>ราคาถูก สมเหตุสมผล คุ้มค่าทุกการเดินทาง เริ่มต้นเพียง 1,800 บาท/วัน เท่านั้น</p>
+      </div>
+      <div class="feature-box">
+        <h4>มีความปลอดภัย</h4>
+        <p>รถทุกคันของเรา ได้รับการบำรุงรักษาอย่างสม่ำเสมอ ปลอดภัยตลอดการเดินทาง</p>
+      </div>
+    </div>
+  </section>
+
+ <!---ขั้นตอนการจองรถ -->
+  <section class="section steps">
+    <h3>ขั้นตอนการจองรถ</h3>
+    <p>บริการเช่ารถพร้อมคนขับของเรา สามารถทำได้ง่าย เพียงแค่ติดต่อเราตามช่องทางที่สะดวกเพื่อจองรถได้ทันที</p>
+
+    <div class="step"><strong>1. ติดต่อเรา</strong> – ติดต่อเราตามช่องทางที่สะดวก เพื่อสอบถามหรือจองรถ ในวัน-เวลาที่ต้องการเดินทาง</div>
+    <div class="step"><strong>2. ชำระมัดจำ</strong> – ชำระค่ามัดจำตามที่ตกลง โดยโอนเงินเข้าบัญชีที่ทางเราแจ้งไว้</div>
+    <div class="step"><strong>3. เดินทาง</strong> – เมื่อถึงวันนัดหมาย ทางเราจะเดินทางไปรับลูกค้าตามสถานที่และเวลาที่ตกลงกันไว้</div>
+
+     <!---ขั้นตอนการจองรถ -->
+     <section class="section steps">
+       <h3> ผมโอนเงินเข้าบัญชี </h3>
+       <p1>
+     <div class="step"><strong>เลขบัญชี</strong> –744-242-2782 </div>
+     <div class="step"><strong>ธนาคาร</strong> –ธนาคารกสิกรไทย</div>
+     <div class="step"><strong>ชื่อบัญชี</strong>–มงคล เยี่ยมจันทึก</div>
+
+    
+  <!-- ขั้นตอนการจองรถ -->
+  <section class="section steps">
+    <h3>เงื่อนไขการให้บริการ</h3>  
+
+    <div class="step"><strong>(01)</strong>– ห้ามนำสิ่งผิดกฏหมาย ไว้ในรถ หากพนักงานขับรถพบเห็น หรือ สงสัยว่ามีสิ่งผิดกฎหมายพนักงานขับรถจำเป็นต้องร้องขอให้เจ้าหน้าที่ตำรวจทำการตรวจ ค้น ทั้งนี้ เพื่อความบริสุทธิ์ของตนเอง และบุคคลอื่นภายในร</div>
+    
+    <div class="step"><strong>(02)</strong>- ห้ามนำสิ่งผิดกฏหมาย ไว้ในรถ หากพนักงานขับรถพบเห็น หรือ สงสัยว่ามีสิ่งผิดกฎหมายพนักงานขับรถจำเป็นต้องร้องขอให้เจ้าหน้าที่ตำรวจทำการตรวจ ค้น ทั้งนี้ เพื่อความบริสุทธิ์ของตนเอง และบุคคลอื่นภายในรถ</piv>
+    <div class="step"><strong>(03)</strong> -พนักงานขับรถขอสงวนสิทธิ์ที่จะระงับ หรือยกเลิกการเดินทางในบางเส้นทาง หรือบางเวลา หากพิจารณาแล้วเห็นว่าการเดินทางต่อไปนั้น อาจก่อให้เกิดอันตรายต่อชีวิตและ / หรือ ทรัพย์สินของบุคคลภายในรถ</piv>
+    <div class="step"><strong>(04)</strong>-ห้ามนำสัตว์เลี้ยงทุกชนิดขึ้นบนรถ โดยเด็ดขาดก่อนได้รับอนุญาติ</piv>
+    <div class="step"><strong>(05)</strong>-พนักงานจะปฏิบัติหน้าที่โดยมุ่งเน้นความสะดวก และความปลอดภัย ในการเดินทางของผู้โดยสารในรถเป็นสำคัญ ความเร็วในการขับขี่ จึงมิใช่ปัจจัยหลักในการเดินทาง แต่จะขึ้นอยู่กับสภาพผิวจราจร และสภาพแวดล้อมที่เหมาะสม</piv>
+    <div class="step"><strong>(06)</strong>-ห้ามเสพสิ่งเสพติดภายในรถ โดยเด็ดขาด</piv>
+    <div class="step"><strong>(06)</strong>-เพื่อความปลอดภัยในการเดินทาง พนักงานขับรถจะปฏิบัติหน้าที่ เป็นเวลาไม่เกิน</div>
+    
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Footer Contact Grid</title>
+  <style>
+    /* ตารางสี่เหลี่ยมด้านล่าง */
+    .footer-contact {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      background: #fff;
+      border-top: 2px solid #ddd;
+      z-index: 999;
+    }
+
+    .footer-contact a {
+      text-align: center;
+      padding: 8px 0;  /* ย่อเล็กลง */
+      color: #fff;
+      font-size: 14px; /* ย่อขนาดลง */
+      text-decoration: none;
+    }
+
+    .footer-contact a i {
+      display: block;
+      margin-bottom: 3px;
+      font-size: 18px; /* ย่อขนาดลง */
+    }
+
+    /* สีแต่ละช่อง */
+    .footer-line { background: #06c755; }     /* LINE เขียว */
+    .footer-phone { background: #ff5722; }    /* โทร สีส้ม */
+    .footer-whatsapp { background: #25D366; } /* WhatsApp เขียว */
+    .footer-fb { background: #1877f2; }       /* Facebook ฟ้า */
+
+    /* เอฟเฟกต์ hover */
+    .footer-contact a:hover {
+      opacity: 0.85;
+      transition: 0.3s;
+    }
+  </style>
+
+  <!-- ใช้ Font Awesome สำหรับไอคอน -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+</head>
+<body>
+
+  <!-- Footer Contact Grid -->
+  <div class="footer-contact">
+    <a href="https://lin.ee/LOUqGOb" target="_blank" class="footer-line">
+      <i class="fab fa-line"></i> LINE
+    </a>
+    <a href="tel:+66636385818" class="footer-phone">
+      <i class="fas fa-phone-alt"></i> โทร
+    </a>
+    <a href="https://wa.me/66636385818" target="_blank" class="footer-whatsapp">
+      <i class="fab fa-whatsapp"></i> WhatsApp
+    </a>
+    <a href="https://www.facebook.com/share/1B2ptojQtA/" target="_blank" class="footer-fb">
+      <i class="fab fa-facebook-f"></i> Facebook
+    </a>
+  </div>
+
+</body>
+</html>
